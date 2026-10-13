@@ -8,10 +8,12 @@
 ```
 c19h58@github
 -------------------------
-📚 I'm studying to become a software developer
-📡 I enjoy learning about networks
-🌐 Languages: C#, Dart
-💻 Workstation: MacBook Air m4
+🔎Focus:       Development
+📖Languages:   Dart / C# /
+🛠️Tools:       Git / Docker / Linux
+💭Interests:   Systems / Networking
+📝Status:      Learning
+🖥️Workstation: Macbook Air m4
 ```
 </p>
 
