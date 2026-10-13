@@ -1,20 +1,25 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=efadc9&center=true&vCenter=true&width=450&lines=Pipi's+page+<3)](https://git.io/typing-svg)
 
-<table>
-  <tr>
-    <td width="180" align="center" valign="middle">
-      <img src="https://github.com/YOUR_USERNAME.png" width="150" alt="Avatar">
-    </td>
-    <td valign="middle">
-      <pre>
-YOUR_USERNAME@github
+<!---
+Show profile views
+-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pipi-bear&color=ffd3d9&style=for-the-badge">
+</p> <br>
+
+<p>
+<img align="left" src="assets/profile_pic.jpg" width="300" /> 
+
+```
+c19h58@github
 -------------------------
-OS        Windows / macOS / Linux
-Focus     Software Development
-Languages Dart / C# / C++
-Tools     Git / Docker / Linux
-Interests Systems / Networking
-Status    Learning & Building
-      </pre>
-    </td>
-  </tr>
-</table>
+📚 I'm studying to become a software developer
+📡 I enjoy learning about networks
+🌐 Languages: C#, Dart
+💻 Workstation: MacBook Air m4
+```
+</p>
+
+<br>
+
+
