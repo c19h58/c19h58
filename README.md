@@ -3,7 +3,7 @@
 
 
 <p>
-<img align="left" src="assets/profile_pic.jpg" width="300" /> 
+<img align="left" src="assets/fight.jpg" width="300" /> 
 
 ```
 c19h58@github
