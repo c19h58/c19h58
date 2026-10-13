@@ -9,7 +9,7 @@
 c19h58@github
 -------------------------
 🔎Focus:       Development
-📖Languages:   Dart / C# /
+📖Languages:   Dart / C# 
 🛠️Tools:       Git / Docker / Linux
 💭Interests:   Systems / Networking
 📝Status:      Learning
