@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**c19h58/c19h58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="180" align="center" valign="middle">
+      <img src="https://github.com/YOUR_USERNAME.png" width="150" alt="Avatar">
+    </td>
+    <td valign="middle">
+      <pre>
+YOUR_USERNAME@github
+-------------------------
+OS        Windows / macOS / Linux
+Focus     Software Development
+Languages Dart / C# / C++
+Tools     Git / Docker / Linux
+Interests Systems / Networking
+Status    Learning & Building
+      </pre>
+    </td>
+  </tr>
+</table>
